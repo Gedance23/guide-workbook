@@ -1,20 +1,11 @@
-# TASKS.md
+# Lifecycle State
+PHASE: 4
+STATUS: in-progress
 
-PHASE: 0
-STATUS: ready
+# Active Phase
+PHASE: 4
+STATUS: in-progress
 
-(0=Bootstrap | 1=Specify | 2=Design | 3=Develop | 4=Validate | 5=Deploy)
-
-## Current Use Case
-
-docs/specs/UC-[XXX]-[NAME].md
-
-## Backlog
-
-- docs/specs/UC-[XXX]-[NAME].md
-
-## Working agreement
-
-- Keep one active use case small enough to deliver vertically.
-- Update this file when the lifecycle phase or active use case changes.
-- Link decisions and validation evidence from the relevant project artefact.
+# Backlog
+- [ ] UC-001: Run Payroll Validation (Auditing Excel against legal constraints)
+- [ ] UC-002: Generate and Export Compliance Audit Report
